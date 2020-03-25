@@ -1,4 +1,4 @@
-package it.polito.PO2020.ricevuta;
+package it.polito.PO2020.ricevutaSingleton;
 
 public class Item {
 	
